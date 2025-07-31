@@ -70,7 +70,7 @@ const Home = () => {
                   size="lg" 
                   variant="outline"
                   asChild
-                  className="border-white/30 text-white hover:bg-white hover:text-primary"
+                  className="border-white/30 text-white hover:bg-white hover:text-primary hover:scale-105 transition-all duration-300"
                 >
                   <Link to="/contact">Get In Touch</Link>
                 </Button>

@@ -21,8 +21,8 @@ const Header = () => {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 items-center justify-between">
-        <Link to="/" className="flex items-center space-x-2">
-          <div className="h-8 w-8 rounded-full bg-primary"></div>
+        <Link to="/" className="flex items-center space-x-3">
+          <img src="/lovable-uploads/69ebef16-1e90-4e4e-bf19-bb68e5512eb2.png" alt="Smart Leading Solutions" className="h-10 w-auto" />
           <span className="text-xl font-bold text-primary">Muhammad Hammad Khan</span>
         </Link>
 

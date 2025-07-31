@@ -41,7 +41,11 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span className="text-sm">nogain447khan@gmail.com</span>
+                <span className="text-sm">mhaammadkhan@gmail.com</span>
+              </div>
+              <div className="flex items-center space-x-2">
+                <Mail className="h-4 w-4" />
+                <span className="text-sm">hammad@smartleading.net</span>
               </div>
             </div>
           </div>
@@ -100,7 +104,7 @@ const Footer = () => {
                 className="h-10 w-10"
               >
                 <a
-                  href="mailto:nogain447khan@gmail.com"
+                  href="mailto:mhaammadkhan@gmail.com"
                   aria-label="Send Email"
                 >
                   <Mail className="h-4 w-4" />

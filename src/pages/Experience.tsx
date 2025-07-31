@@ -57,42 +57,25 @@ const Experience = () => {
     },
     {
       company: "University of Management and Technology - UMT",
-      position: "Intern",
+      position: "Learning Resources Centre LRC (Internee)",
       period: "October 2023 - November 2023",
       duration: "2 months",
       location: "Lahore, Punjab, Pakistan",
       type: "Internship",
-      description: "Gained practical experience in organizational operations and project management methodologies.",
+      description: "Comprehensive internship program focusing on library and information management systems, gaining hands-on experience across multiple departments and specialized sections.",
       responsibilities: [
-        "Participated in various departmental projects and initiatives",
-        "Observed and learned organizational best practices",
-        "Assisted in documentation and administrative tasks",
-        "Contributed to team projects and collaborative efforts"
+        "Worked in Acquisition department for resource procurement and vendor management",
+        "Assisted in Reference Section providing research support and information services",
+        "Contributed to Technical Processing for cataloging and classification",
+        "Managed E-Database operations and digital resource organization",
+        "Supported Circulation Section for lending and return operations",
+        "Participated in Weeding activities for collection development and maintenance"
       ],
       achievements: [
-        "Successfully completed comprehensive internship program",
-        "Gained valuable insights into organizational dynamics",
-        "Developed professional communication skills"
-      ]
-    },
-    {
-      company: "University of Management and Technology - UMT",
-      position: "Intern",
-      period: "September 2023 - November 2023",
-      duration: "3 months",
-      location: "Lahore, Punjab, Pakistan",
-      type: "Extended Internship",
-      description: "Extended internship focusing on advanced project management and strategic planning.",
-      responsibilities: [
-        "Advanced project management tasks and responsibilities",
-        "Strategic planning and analysis activities",
-        "Cross-functional team collaboration",
-        "Research and development initiatives"
-      ],
-      achievements: [
-        "Completed extended internship with distinction",
-        "Developed advanced analytical and strategic thinking skills",
-        "Built strong foundation for future professional roles"
+        "Successfully completed comprehensive LRC internship program",
+        "Gained expertise in multiple library management systems and workflows",
+        "Developed strong foundation in information organization and retrieval",
+        "Enhanced skills in digital resource management and user services"
       ]
     },
     {

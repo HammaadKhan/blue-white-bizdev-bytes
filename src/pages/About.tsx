@@ -22,7 +22,7 @@ const About = () => {
       icon: <GraduationCap className="h-6 w-6 text-primary" />
     },
     {
-      degree: "Associate's Degree",
+      degree: "Bachelor's Degree",
       field: "Computer Science",
       institution: "Superior University",
       period: "2019 - 2021",

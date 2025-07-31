@@ -55,9 +55,15 @@ const Contact = () => {
   const contactInfo = [
     {
       icon: <Mail className="h-5 w-5 text-primary" />,
-      label: "Email",
-      value: "nogain447khan@gmail.com",
-      link: "mailto:nogain447khan@gmail.com"
+      label: "Personal Email",
+      value: "mhaammadkhan@gmail.com",
+      link: "mailto:mhaammadkhan@gmail.com"
+    },
+    {
+      icon: <Mail className="h-5 w-5 text-primary" />,
+      label: "Business Email", 
+      value: "hammad@smartleading.net",
+      link: "mailto:hammad@smartleading.net"
     },
     {
       icon: <Phone className="h-5 w-5 text-primary" />,
@@ -335,7 +341,7 @@ const Contact = () => {
                   Send me an email directly for detailed project discussions
                 </p>
                 <Button variant="outline" asChild>
-                  <a href="mailto:nogain447khan@gmail.com">
+                  <a href="mailto:mhaammadkhan@gmail.com">
                     Send Email
                   </a>
                 </Button>

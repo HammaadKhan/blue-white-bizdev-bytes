@@ -115,6 +115,18 @@ const Portfolio = () => {
       title: "SEO & Digital Marketing",
       description: "Comprehensive digital marketing strategies that deliver measurable results",
       features: ["SEO Audits", "Google Ads", "Content Strategy", "Analytics & Reporting"]
+    },
+    {
+      title: "Library Management Systems",
+      description: "Comprehensive library and information management solutions using industry-leading software platforms",
+      features: [
+        "Koha ILS implementation and customization",
+        "Greenstone digital library solutions", 
+        "DSpace institutional repository setup",
+        "Cataloging and classification services",
+        "Digital collection management",
+        "User training and system administration"
+      ]
     }
   ];
 
