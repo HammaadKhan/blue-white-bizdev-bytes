@@ -70,7 +70,7 @@ const Home = () => {
                   size="lg" 
                   variant="outline"
                   asChild
-                  className="bg-transparent border-blue-500 text-blue-500 hover:bg-white hover:text-blue-600 hover:border-white hover:scale-105 transition-all duration-300"
+                  className="bg-transparent border-blue-500 text-blue-500 hover:bg-white hover:text-blue-600 hover:border-white dark:border-blue-400 dark:text-blue-400 dark:hover:bg-blue-400 dark:hover:text-white hover:scale-105 transition-all duration-300"
                 >
                   <Link to="/contact">Get In Touch</Link>
                 </Button>
@@ -79,8 +79,8 @@ const Home = () => {
             
             <div className="flex justify-center lg:justify-end">
               <div className="relative">
-                <div className="absolute inset-0 bg-white/20 rounded-2xl blur-2xl"></div>
-                <div className="relative bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-8 shadow-2xl">
+                <div className="absolute inset-0 bg-white/20 dark:bg-white/10 rounded-2xl blur-2xl"></div>
+                <div className="relative bg-white/10 dark:bg-white/5 backdrop-blur-sm border border-white/20 dark:border-white/10 rounded-2xl p-8 shadow-2xl">
                   <img
                     src="/uploads/33dc25e8-03aa-4fed-80fe-38e6d8b148b9.png"
                     alt="Muhammad Hammad Khan - Professional Profile"
