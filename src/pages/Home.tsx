@@ -70,7 +70,7 @@ const Home = () => {
                   size="lg" 
                   variant="outline"
                   asChild
-                  className="border-white/30 text-white hover:bg-white hover:text-primary hover:scale-105 transition-all duration-300"
+                  className="bg-transparent border-blue-500 text-blue-500 hover:bg-white hover:text-blue-600 hover:border-white hover:scale-105 transition-all duration-300"
                 >
                   <Link to="/contact">Get In Touch</Link>
                 </Button>
@@ -82,7 +82,7 @@ const Home = () => {
                 <div className="absolute inset-0 bg-white/20 rounded-2xl blur-2xl"></div>
                 <div className="relative bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-8 shadow-2xl">
                   <img
-                    src="/lovable-uploads/33dc25e8-03aa-4fed-80fe-38e6d8b148b9.png"
+                    src="/uploads/33dc25e8-03aa-4fed-80fe-38e6d8b148b9.png"
                     alt="Muhammad Hammad Khan - Professional Profile"
                     className="w-80 h-80 object-cover rounded-xl shadow-card"
                   />

@@ -104,7 +104,7 @@ const About = () => {
             <div className="flex justify-center lg:justify-end">
               <Card className="card-gradient border-0 shadow-card p-8">
                 <img
-                  src="/lovable-uploads/33dc25e8-03aa-4fed-80fe-38e6d8b148b9.png"
+                  src="/uploads/33dc25e8-03aa-4fed-80fe-38e6d8b148b9.png"
                   alt="Muhammad Hammad Khan - Professional Portrait"
                   className="w-80 h-80 object-cover rounded-xl"
                 />
